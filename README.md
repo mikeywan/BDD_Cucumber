@@ -2,5 +2,4 @@
 
 + Install Maven
 + Install Jdk
-+ Run command
-+ mvn test
++ Run command "mvn test"
