@@ -3,4 +3,4 @@
 + Install Maven
 + Install Jdk
 + Run command
-	mvn test
+++ mvn test
